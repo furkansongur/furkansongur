@@ -18,8 +18,8 @@
 
 <h3 align="left" class="heading-element" dir="auto">Connect with me:</h3>
 
-<a href="https://linkedin.com/in/furkansongur" target="_blank" rel="nofollow">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="furkansongur" height="30" width="40" style="max-width: 100%;">
+<a href="https://linkedin.com/in/furkansongur" target="_blank" rel="noopener noreferrer">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="furkansongur" height="30" width="40" style="max-width: 100%;">
 </a>
 
 <h3 align="left" class="heading-element" dir="auto">Languages and Tools:</h3>
