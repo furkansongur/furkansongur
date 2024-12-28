@@ -31,8 +31,6 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" style="max-width: 100%;">
 </a>
 
-[![FurkanSongur's GitHub stats](https://github-readme-stats.vercel.app/api?username=furkansongur)](https://github.com/furkansongur/github-readme-stats) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=furkansongur)](https://github.com/furkansongur/github-readme-stats)
-
-
+[![FurkanSongur's GitHub stats](https://github-readme-stats.vercel.app/api?username=furkansongur)](https://github.com/furkansongur/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=furkansongur&layout=compact)
