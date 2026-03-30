@@ -1,6 +1,6 @@
 <h1 align="center" class="heading-element" dir="auto">Hi 👋, I'm Furkan Songur</h1>
 
-<h3 align="center" class="heading-element" dir="auto">Software Quality Assurance Engineer @Intertech</h3>
+<h3 align="center" class="heading-element" dir="auto">Software Quality Assurance Engineer @TurkishAirlines Technology</h3>
 
 
 
